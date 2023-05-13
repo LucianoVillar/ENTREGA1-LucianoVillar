@@ -1,4 +1,5 @@
 create schema lifegame;
+use lifegame;
 create table Pais( 
 id_pais INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
 nombre VARCHAR(50) 
